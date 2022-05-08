@@ -1,0 +1,129 @@
+{
+  "configVersion": 1,
+  "timestamp": 1652047069447,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/213.0eb078675207697e4d83.js",
+        "/33.a9df4b46df80ccb6603d.js",
+        "/75.ff2ea5158038f65e1996.js",
+        "/favicon.ico",
+        "/firebase-messaging-sw.js",
+        "/index.html",
+        "/main.b2641d129d296fbe55ae.js",
+        "/manifest.webmanifest",
+        "/polyfills.59bc5b6738cb5df957c4.js",
+        "/runtime.56301327fbeb030e90b9.js",
+        "/scripts.a03ac298b44d19239861.js",
+        "/styles.6f77be725533481e152c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/Imagenes/colegio.jpg",
+        "/assets/Imagenes/correo.png",
+        "/assets/Imagenes/email.png",
+        "/assets/Imagenes/entrar.png",
+        "/assets/Imagenes/eye.png",
+        "/assets/Imagenes/fondocalendario.jpg",
+        "/assets/Imagenes/fondologin.jpg",
+        "/assets/Imagenes/hide.png",
+        "/assets/Imagenes/icon.png",
+        "/assets/Imagenes/llave.png",
+        "/assets/Imagenes/logo-mision.png",
+        "/assets/Imagenes/logo-valores.png",
+        "/assets/Imagenes/logo-vision.png",
+        "/assets/Imagenes/logo.jpg",
+        "/assets/Imagenes/padlock.png",
+        "/assets/Imagenes/user.png",
+        "/assets/Imagenes/usuario.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/servicios.js",
+        "/fondologin.aa24763df3b33bff7875.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/213.0eb078675207697e4d83.js": "27082889dbaf364bb1c3aa420e01ff8d41ddc11a",
+    "/33.a9df4b46df80ccb6603d.js": "c73ce4ba2ce7bd83c1a444249d0229a65f7baef7",
+    "/75.ff2ea5158038f65e1996.js": "58fc611b7013048dfd4f9ada8ea386cd337e7c03",
+    "/assets/Imagenes/colegio.jpg": "da5e6ee2b307d38d717e29a6be7ee4eb8ce76682",
+    "/assets/Imagenes/correo.png": "178061844b418f41837e3b85df6568a504ac7247",
+    "/assets/Imagenes/email.png": "aaccb80b662b1a46e2c5f5bfe9705f6b3c7e1bca",
+    "/assets/Imagenes/entrar.png": "f88904bef1b3c3c184172fa72083b9e40feccd9e",
+    "/assets/Imagenes/eye.png": "ae41efc179f25e8dfbd78444df6f62b91ec357ed",
+    "/assets/Imagenes/fondocalendario.jpg": "b246c6ab709d46a793a78830117a9dbbc9b16493",
+    "/assets/Imagenes/fondologin.jpg": "f9362a30a994c7cdff296eea94da8b41a3623cca",
+    "/assets/Imagenes/hide.png": "4e1c3fe1ed17a64008b3fd86efdc5ef885de6c15",
+    "/assets/Imagenes/icon.png": "13f23c761cbef3ba64f4b3bfa236da4bb66a47b2",
+    "/assets/Imagenes/llave.png": "6349553f5c19a0069670c24fe651e0655bcfc1f3",
+    "/assets/Imagenes/logo-mision.png": "c0a96b73757b0322b1254f46ef78ee8b46196406",
+    "/assets/Imagenes/logo-valores.png": "5a47709cee39ec2860a582b507a57ba0c4e0b719",
+    "/assets/Imagenes/logo-vision.png": "977b18cc0b677b1e599a2a03bd3f05fd8076c41a",
+    "/assets/Imagenes/logo.jpg": "5891a8ad63a0d4c0bdb9839816f8616fd7a1a52c",
+    "/assets/Imagenes/padlock.png": "6303d0260ba8755a7334a148fca56f378f3881a8",
+    "/assets/Imagenes/user.png": "4a379955e6736cad24d83679fc9b48042f255b39",
+    "/assets/Imagenes/usuario.png": "3e4ced59bb2e014e25eeb0abdc025e48d4065013",
+    "/assets/icons/icon-128x128.png": "fcbdfd9284c8a9d0a0c6d716d9263c3843055190",
+    "/assets/icons/icon-144x144.png": "a543986066b287b2df53503fd19b204887c5754a",
+    "/assets/icons/icon-152x152.png": "4c16ab27d06548ee1603bf43edde82de413bb183",
+    "/assets/icons/icon-192x192.png": "1a3943c0646f211e434fd2203bb9d4f0bde40966",
+    "/assets/icons/icon-384x384.png": "67d11051d49b2001ffc270ca0064f71188c645f6",
+    "/assets/icons/icon-512x512.png": "2662bb7cfe31ea709919fcbe297630eff645f076",
+    "/assets/icons/icon-72x72.png": "67680e9f580b039983a66fe3f9562c5ec4bcb7c0",
+    "/assets/icons/icon-96x96.png": "9d299a1e86db37ac63878cc09b657331843f9481",
+    "/assets/servicios.js": "1a171f7dd07d86daf823849664485dc99c1fd4b8",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/firebase-messaging-sw.js": "bd2a5b1c794398f4ff1a88d84ea105e0492d4a41",
+    "/fondologin.aa24763df3b33bff7875.jpg": "f9362a30a994c7cdff296eea94da8b41a3623cca",
+    "/index.html": "ce9f6d8b668cc7e2f0ce4627fbc7286bc4c74aa3",
+    "/main.b2641d129d296fbe55ae.js": "9f04be157e56f41b22d4c6a0230c67f095065da8",
+    "/manifest.webmanifest": "4c7e5a352e8cb3f57f52b3698917ae5536355d66",
+    "/polyfills.59bc5b6738cb5df957c4.js": "c7676b4e830473cee12686a355883fa0a8908e90",
+    "/runtime.56301327fbeb030e90b9.js": "28c05fded12b7f41d0ed536575f96a6a5013063d",
+    "/scripts.a03ac298b44d19239861.js": "9b1e4ffaf9ddee545da4cfd15c00cb39a46ea254",
+    "/styles.6f77be725533481e152c.css": "128671b4cb73c3f98ae26cf030bf53055be8f754"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
